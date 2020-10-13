@@ -1,0 +1,37 @@
+h1 {
+    color: #0069d9;
+    text-shadow: 2px 2px 5px #88bffa, 3px 3px 5px gray;
+}
+
+#lettreDuPendu {
+    text-align: center;
+}
+
+input {
+    box-shadow: 1px 1px 3px darkgray;
+}
+
+#resultat {
+    font-size: 2em;
+}
+
+#Message {
+    font-size: 1.3em;
+    color: green;
+}
+
+#NbCoup {
+    font-size: 1.3em;
+    color: blue;
+}
+
+#NbRestant {
+    font-size: 1.3em;
+    color: red;
+}
+
+
+
+#Score .d-flex{
+    height: 100%;
+}
